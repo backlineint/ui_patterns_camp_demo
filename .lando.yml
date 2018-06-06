@@ -1,0 +1,4 @@
+name: ui-patterns-camp
+recipe: drupal8
+config:
+  webroot: web
